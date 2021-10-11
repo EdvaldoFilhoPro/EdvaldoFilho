@@ -1,4 +1,4 @@
 const app = require('./config/app');
 
 
-app.listen(8000, () => console.log("Servidor ON"));
+app.listen(8020, () => console.log("Servidor ON"));
