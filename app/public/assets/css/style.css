@@ -897,6 +897,7 @@ section {
   background-color: #070708;
   border-radius: 10px;
   border: 2px solid #428bca;
+  max-width: 100%;
   line-height: 24px;
   font-size: 16px;
   text-indent: 6%;
