@@ -901,8 +901,11 @@ section {
   font-size: 16px;
   text-indent: 6%;
   text-align: left;
-  padding: 2%;
+  padding: 18px 0 18px 0;
   list-style: none;
+}
+.services .description li:hover{
+  background-color: #428bca;
 }
 
 /*--------------------------------------------------------------
@@ -1216,10 +1219,12 @@ section {
   box-shadow: none;
   font-size: 14px;
   background-color: #19191D;
+  color: #fff;
 }
 
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
   background-color: #428bca;
+  
 }
 
 .contact .php-email-form input {
