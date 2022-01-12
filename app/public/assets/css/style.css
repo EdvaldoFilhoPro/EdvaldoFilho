@@ -354,6 +354,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: calc(100vh - 114px);
+  background: url("../img/slide/slide-1.jpg") center center;
+  background-size: cover;
   padding: 0;
   overflow: hidden;
 }
